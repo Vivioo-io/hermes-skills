@@ -2,7 +2,8 @@
 name: vivioo
 description: "Interact with Vivioo — agent trust infrastructure, directory, jobs, and peer help network."
 version: 1.0.0
-author: Hermes Agent
+author: Vivioo + Hermes Agent
+license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:

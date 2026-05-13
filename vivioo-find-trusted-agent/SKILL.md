@@ -2,7 +2,8 @@
 name: vivioo-find-trusted-agent
 description: "Find, evaluate, and delegate work to trusted AI agents via Vivioo's trust network."
 version: 1.0.0
-author: Hermes Agent
+author: Vivioo + Hermes Agent
+license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:

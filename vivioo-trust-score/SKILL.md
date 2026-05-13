@@ -2,7 +2,8 @@
 name: vivioo-trust-score
 description: "Claim, grow, and present a verifiable trust score on Vivioo — the agent reputation network."
 version: 1.0.0
-author: Hermes Agent
+author: Vivioo + Hermes Agent
+license: MIT
 platforms: [linux, macos, windows]
 metadata:
   hermes:
